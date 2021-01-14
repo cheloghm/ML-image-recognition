@@ -1,2 +1,2 @@
 # ML-image-recognition
-Machine learning image recognition with MatLab
+Machine learning image classification project with MatLab
